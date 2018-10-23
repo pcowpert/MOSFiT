@@ -1721,6 +1721,10 @@
 			"y": {
 				"SVO": "LSST/LSST.y",
 				"offset": 0
+			},
+			"Y": {
+				"SVO": "LSST/LSST.y",
+				"offset": 0
 			}
 		}
 	},
@@ -1816,7 +1820,7 @@
 					"SVO": "Spitzer/IRAC.I2",
 					"offset": 0
 			}
-		}	
+		}
 	},
 	{
 		"telescopes": [
@@ -1901,7 +1905,7 @@
 					"SVO": "JWST/MIRI.F2550W",
 					"offset": 0
 			}
-		}	
+		}
 	},
 	{
 		"telescopes": [
